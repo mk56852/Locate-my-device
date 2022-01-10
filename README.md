@@ -1,5 +1,10 @@
 # Locate-my-device
-C'est une application mobile pour localiser votre smartphone en cas de vol. 
+C'est une application mobile pour localiser votre smartphone en cas de vol.  
+
+#### Réalisé par : 
+ - [Hajji Mohamed Emir](https://www.linkedin.com/in/mohamedemirhajji/)
+ - [Ketata Melek](https://www.linkedin.com/in/melek-ketata-5a43371b7/)
+ - [Ben Abdelmalek Sarra](https://www.linkedin.com/in/sarra-ben-abdelmalek-5a37a5140/)
 
 ## ❇ Introduction
 
@@ -24,6 +29,11 @@ Locate My Device rend votre appareil inutilisable pour le voleur même après av
     <br/>----> Lorsque le téléphone est volé </li> 
 </p>
 
+## 🖼 Technologies utilisées 
+
+- [Angular](https://angular.io/)
+- [Android Studio](https://developer.android.com/studio?hl=fr&gclid=CjwKCAiA1aiMBhAUEiwACw25MXQ0piMVuICCZWNXMYBGVxAOE4iGoeoOxT_048KowH47HwWLb71czBoCN8UQAvD_BwE&gclsrc=aw.ds) 
+- [Java](https://www.java.com/fr/download/)
 
 ## 🚩 Le réglage nécessaire 
 
