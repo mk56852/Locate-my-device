@@ -65,7 +65,7 @@ un tableau de bord est à la disposition de l'utilisateur pour détecter à tout
 
 
 
-## 🖼 Gallerie
+## 🖼 Galerie
 
 ![5](https://user-images.githubusercontent.com/65729882/148817180-d927e5e2-7861-4667-804a-0fcaa6d4b6ae.jpg)
 ![4](https://user-images.githubusercontent.com/65729882/148817196-1c9007a8-4c19-42dd-8018-c695476fce9a.jpg)
